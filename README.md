@@ -1,6 +1,4 @@
 # Bootstrap/CSS/HTML - Ingragram Web Page
-Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Frontend Web Development Patikası" içerisinde bulunan 
-"Bootstrap" konusunun 2. ödevi olan "Instagram Web Sayfası" projesini yaptım.
 
 ![alt text](https://github.com/Axlope/bootstrap-instagram-clone/blob/master/instagram1.png)
 
